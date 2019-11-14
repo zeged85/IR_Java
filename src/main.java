@@ -6,8 +6,12 @@ public class main {
     {  
         System.out.print("first statement. ");  
         System.out.print("second statement. ");  
-        System.out.print("third statement");  
-        
+        System.out.print("third statement");
+        System.out.print("4 statement");
+        System.out.print("5 statement");
+        System.out.print("6 statement");
+
+
         //READ FILE  to String
         readfile reader = new readfile();
         String singleFile = null;
